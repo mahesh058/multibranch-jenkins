@@ -1,3 +1,3 @@
 # multibranch-jenkins
 line2
-# updating readme to check multibranch jenkin
+# updating readme to check multibranch jenkins
