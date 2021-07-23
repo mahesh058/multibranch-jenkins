@@ -16,7 +16,7 @@ pipeline{
         echo 'third stage'
       }
     }
-    stage(''){
+    stage('webhook'){
       steps{
         echo 'webhook'
       }
